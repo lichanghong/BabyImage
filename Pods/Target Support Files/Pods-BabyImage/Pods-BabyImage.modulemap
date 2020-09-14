@@ -1,0 +1,6 @@
+framework module Pods_BabyImage {
+  umbrella header "Pods-BabyImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

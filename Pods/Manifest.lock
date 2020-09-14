@@ -1,0 +1,23 @@
+PODS:
+  - SDWebImage (5.9.0):
+    - SDWebImage/Core (= 5.9.0)
+  - SDWebImage/Core (5.9.0)
+
+DEPENDENCIES:
+  - SDWebImage (from `https://gitee.com/yuni-shi/SDWebImage.git`)
+
+EXTERNAL SOURCES:
+  SDWebImage:
+    :git: https://gitee.com/yuni-shi/SDWebImage.git
+
+CHECKOUT OPTIONS:
+  SDWebImage:
+    :commit: 57ff3b2de94fda2acdfc39753a0c638aceb8596a
+    :git: https://gitee.com/yuni-shi/SDWebImage.git
+
+SPEC CHECKSUMS:
+  SDWebImage: 62ae4a18473520c67b79e9724c31a63599cc9423
+
+PODFILE CHECKSUM: deca6c3d6ede2810e895cd3e0f00916d8ede486a
+
+COCOAPODS: 1.9.1
